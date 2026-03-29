@@ -6,7 +6,7 @@ Student Details
 
 ---
 
-Project Overview
+Project Overview  
 This project focuses on developing digital literacy skills by exploring various online tools and platforms. It includes activities related to presentations, portfolio building, coding practice, collaboration tools, email etiquette, and cyber safety awareness.
 
 The objective of this project is to enhance technical knowledge, improve online presence, and understand safe and effective use of digital resources.
